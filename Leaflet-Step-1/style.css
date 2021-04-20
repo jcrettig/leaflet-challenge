@@ -11,6 +11,7 @@ body {
     height: 100%;
   }
 
+  /*create legend box  and style*/
   .legend {
     padding: 10px;
     line-height: 18px;
